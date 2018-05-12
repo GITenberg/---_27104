@@ -1,0 +1,28 @@
+_repo: '---_27104'
+_version: 0.1.0
+alternative_title: Gui Lian Meng
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Su'anzhuren, active 18th century
+    aliases:
+    - 蘇庵主人
+    - Su-an-chu-jen
+    gutenberg_agent_id: '31206'
+    url: http://www.gutenberg.org/2009/agents/31206
+description: ''
+gutenberg_issued: '2008-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27104'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 歸蓮夢
+url: http://www.gutenberg.org/ebooks/27104
